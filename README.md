@@ -1,4 +1,6 @@
 1.	Our implementation trained on MNIST:
+   ![Predictions_ViT](https://github.com/user-attachments/assets/d08ab994-e185-4cbb-9d57-33e3ed606abc)
+
  
 Validation Accuracy: 94%
 
